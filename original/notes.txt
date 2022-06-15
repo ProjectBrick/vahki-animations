@@ -1,0 +1,17 @@
+http://assets.lego.com/flash/bionicle/onlinemovies/Bordakh.swf
+http://assets.lego.com/flash/bionicle/onlinemovies/Keerakh.swf
+http://assets.lego.com/flash/bionicle/onlinemovies/Nuurakh.swf
+http://assets.lego.com/flash/bionicle/onlinemovies/Rorzakh.swf
+http://assets.lego.com/flash/bionicle/onlinemovies/Vorzakh.swf
+http://assets.lego.com/flash/bionicle/onlinemovies/Zadakh.swf
+
+http://www.lego.com/eng/bionicle/story/2004/default.aspx?id=2004
+http://www.lego.com/eng/bionicle/story/2004/ani.aspx?id=2004
+http://cache.lego.com/images/bionicle/onlinemovies/animNuu_91x79.jpg
+http://cache.lego.com/images/bionicle/onlinemovies/animKee_91x79.jpg
+http://cache.lego.com/images/bionicle/onlinemovies/animBor_91x79.jpg
+http://cache.lego.com/images/bionicle/onlinemovies/animVor_91x79.jpg
+http://cache.lego.com/images/bionicle/onlinemovies/animZad_91x79.jpg
+http://cache.lego.com/images/bionicle/onlinemovies/animRor_91x79.jpg
+http://cache.lego.com/eng/images/bionicle/banners/h1/vahki_406x150_h1.jpg
+http://cache.lego.com/eng/images/bionicle/banners/h6/animaZad195x120_h6.jpg

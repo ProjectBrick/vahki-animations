@@ -1,0 +1,33 @@
+Bionicle 2004
+Vahki Movies: SWF files
+
+Client : The LEGO Group
+Contractor : Templar Studios LLC.
+Date: 4/26/04
+
+CONTENTS:
+6 Vahki SWF movies
+VahkiStage SWF movie
+index.html file
+(All files Macromedia FLASH 6 format)
+
+
+NOTES:
+Vahki SWF movie dimensions are 720 wide, 540 High.
+LOOPING is OFF.
+DEFAULT QUALITY = MEDIUM
+DISPLAY MENU = OFF
+
+The VahkiStage movie loads all 6 Vahki movies as external movie clips. It is intended for LEGO internal viewing only. Index.html launches VahkiStage.swf in a web browser.
+
+
+
+Any questions or problems contact
+Gordon Klimes
+Templar Studios LLC.
+USA 212 941 0577 ext 211
+gklimes@templar.com
+
+
+
+
