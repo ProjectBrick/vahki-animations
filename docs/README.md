@@ -1,4 +1,4 @@
-# Vahki Animations -- README
+# Vahki Animations – README
 
 The Vahki. Watch the Vahki Animations.
 
